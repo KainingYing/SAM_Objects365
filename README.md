@@ -36,13 +36,7 @@ python download_dataset.py \
 
 Next you need download following mask annotations:
 
-|      File Name                         |     Link            |  
-|:-:|:-:|
-| sam_obj365_train_1700k.json            | BaiduNetDisk        |
-| sam_obj365_train_75k.json              | BaiduNetDisk        |
-| sam_obj365_val_5k.json                 | BaiduNetDisk        |
-| sam_mask_json/sam_obj365_train_1742k   | BaiduNetDisk        |
-| sam_mask_json/sam_obj365_train_75k     | BaiduNetDisk        |
+BaiduNetDisk: https://pan.baidu.com/s/1KLncoQ9u7-ABrgyBKCwxGg (1234)
 
 This dataset folder sholud be like:
 
