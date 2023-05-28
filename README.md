@@ -1,7 +1,7 @@
 # SAM-Objects365
 
 ## TODO
-- [ ] Release the download links.
+- [x] Release the download links.
 - [ ] Release the toturial.
 
 ## Introduction
