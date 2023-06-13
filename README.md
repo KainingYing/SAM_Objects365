@@ -36,7 +36,9 @@ python download_dataset.py \
 
 Next you need download following mask annotations:
 
-BaiduNetDisk: https://pan.baidu.com/s/1KLncoQ9u7-ABrgyBKCwxGg (1234)
+**BaiduNetDisk**: https://pan.baidu.com/s/1KLncoQ9u7-ABrgyBKCwxGg (1234)
+
+**OneDrive**: https://1drv.ms/f/s!AqU-46ABHrbCgc8bS9HfrrYjthzf0Q?e=6CHGjs
 
 This dataset folder sholud be like:
 
