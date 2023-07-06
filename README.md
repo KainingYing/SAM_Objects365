@@ -45,7 +45,7 @@ This dataset folder sholud be like:
 ```
 objects365_v2
 ├── annotations
-│   ├── sam_obj365_train_1700k.json
+│   ├── sam_obj365_train_1742k.json
 │   ├── sam_obj365_train_75k.json
 │   ├── sam_obj365_val_5k.json
 │   ├── zhiyuan_objv2_train.json
