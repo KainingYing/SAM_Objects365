@@ -1,5 +1,25 @@
 # SAM-Objects365
 
+## Citation
+If you use our dataset, please kindly cite these projects.
+```
+@inproceedings{shao2019objects365,
+  title={Objects365: A large-scale, high-quality dataset for object detection},
+  author={Shao, Shuai and Li, Zeming and Zhang, Tianyuan and Peng, Chao and Yu, Gang and Zhang, Xiangyu and Li, Jing and Sun, Jian},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={8430--8439},
+  year={2019}
+}
+@misc{sam_objects365,
+  title = {SAM-Objects365},
+  author = {Kaining Ying},
+  howpublished = {\url{https://github.com/KainingYing/SAM_Objects365}},
+  note = {Accessed: 2025-02-11},
+  year = {2025}
+}
+
+```
+
 ## TODO
 - [x] Release the download links.
 - [ ] Release the toturial.
@@ -62,4 +82,4 @@ objects365_v2
 We would like to express our heartfelt thanks for the following projects:
 
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
-- [Objects365](http://www.objects365.org/overview.html)
+- [Objects365](http://www.objects365.org/overview.html) [Lincense](https://www.objects365.org/download.html)
